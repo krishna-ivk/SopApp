@@ -1,0 +1,24 @@
+# Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+*.lock
+!pubspec.lock
+build/
+.packages
+.pub-cache/
+.pub/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Python artifacts
+__pycache__/
+*.py[oc]
+dist/
+wheels/
+*.egg-info
+.venv
+.python-version
